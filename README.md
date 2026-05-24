@@ -73,34 +73,6 @@ endmodule
 Behavioral simulations were performed using ISim Simulator in Xilinx ISE Design Suite.  
 Waveforms were analyzed to verify correct output functionality.
 
----
-
-# Screenshots
-
-## AND Gate Waveform
-
-```md
-![All logic Gate Waveform](ScreenShots/All_logic_gates.jpeg)
-```
-
----
-
-## Half Adder Output
-
-```md
-![Half Adder Output](ScreenShots/Half_adder.jpeg)
-```
-
----
-
-## Full Adder Simulation
-
-```md
-![Full Adder Simulation](ScreenShots/Full_adder.jpeg)
-```
-
----
-
 # Folder Structure
 
 ```text
